@@ -30,11 +30,11 @@ To run the notebook, run the following command at the Terminal (Mac/Linux) or Co
 jupyter notebook
 ```
 
------
-
 
 
 ### TensorFlow
+
+------
 
 ##### 1. Install Python, `pip`, and `virtualenv`.
 
@@ -106,8 +106,6 @@ Use `pip list` to show the packages installed in the virtual environment. [Valid
 
 Use the `deactivate` command to stop the Python virtual environment.
 
------
-
 
 
 ### Keras
@@ -125,8 +123,6 @@ If you are using a `virtualenv`, you may want to avoid using `sudo`:
 ```bash
 pip install keras
 ```
-
------
 
 
 
