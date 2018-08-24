@@ -125,8 +125,9 @@ pip install keras
 ```
 
 
+### pip libraries
 
-### Matplotlib
+#### Matplotlib
 
 We installed the library for the visualization of the data
 
@@ -134,7 +135,10 @@ We installed the library for the visualization of the data
 pip install matplotlib
 ```
 
-
+#### OpenCV
+```bash
+pip install opencv-python
+```
 
 
 
