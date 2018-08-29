@@ -89,8 +89,6 @@ Choose one of the available TensorFlow packages for installation:
 
 - `tensorflow` —Current release for CPU
 - `tensorflow-gpu` —Current release with GPU support
-- `tf-nightly` —Nightly build for CPU
-- `tf-nightly-gpu` —Nightly build with GPU support
 
 Within an active Virtualenv environment, use `pip` to install the package:
 
