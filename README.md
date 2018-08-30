@@ -106,6 +106,16 @@ Use the `deactivate` command to stop the Python virtual environment.
 
 
 
+### TensorFlow using GPU
+
+----------
+
+To install tensorflow-gpu it is recommended to do it from the source files.
+
+ [Install TensorFlow from Sources](https://www.tensorflow.org/install/install_sources)
+
+
+
 ### Keras
 
 ------
