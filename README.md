@@ -157,3 +157,5 @@ pip install opencv-python
 * *[TensorFlow](https://www.tensorflow.org/install/install_linux)*
   * *[TensorFlow other platforms](https://www.tensorflow.org/install/)*
 * *[Keras Documentation](https://keras.io/#installation)*
+
+* *[Spanish Documentation](https://medium.com/@msantana.castolo/guia-de-instalaci%C3%B3n-de-keras-con-tensorflow-5f2dab1a3b5f)*
