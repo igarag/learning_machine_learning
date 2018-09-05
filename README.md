@@ -24,7 +24,7 @@ python -m pip install --upgrade pip
 python -m pip install jupyter
 ```
 
-To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
+To run the notebook, run the following command at the Terminal (*Mac/Linux*) or Command Prompt (*Windows*):
 
 ```
 jupyter notebook
@@ -116,9 +116,32 @@ To install tensorflow-gpu it is recommended to do it from the source files.
 
 
 
-### Keras
 
-------
+
+### pip libraries
+
+-------
+
+* #### Matplotlib
+
+We installed the library for the visualization of the data
+
+```bash
+pip install matplotlib
+```
+
+
+
+* #### OpenCV
+
+```bash
+pip install opencv-python
+```
+
+
+
+
+* ### Keras
 
 Install Keras from PyPI (recommended):
 
@@ -133,21 +156,6 @@ pip install keras
 ```
 
 
-### pip libraries
--------
-
-#### Matplotlib
-
-We installed the library for the visualization of the data
-
-```bash
-pip install matplotlib
-```
-
-#### OpenCV
-```bash
-pip install opencv-python
-```
 
 
 
@@ -158,4 +166,4 @@ pip install opencv-python
   * *[TensorFlow other platforms](https://www.tensorflow.org/install/)*
 * *[Keras Documentation](https://keras.io/#installation)*
 
-* *[Spanish Documentation](https://medium.com/@msantana.castolo/guia-de-instalaci%C3%B3n-de-keras-con-tensorflow-5f2dab1a3b5f)*
+* *[Spanish Documentation to install](https://medium.com/@msantana.castolo/guia-de-instalaci%C3%B3n-de-keras-con-tensorflow-5f2dab1a3b5f)*
