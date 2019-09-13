@@ -1,10 +1,17 @@
-# Introduce to Deep Learning.
+# Learning machine learning
 
 In this repository will be added exercises, practices and theory about machine learning and deep learning.
 
 For a better understanding, the Jupyter environment will be used, which allows step-by-step execution of the program by adding theory.
 
-### Requirements *(to Ubuntu 16.04)*:
+
+
+- Machine Learning
+- Deep Learning
+
+
+
+### Requirements *(to Ubuntu 18.04)*:
 
 ### Jupyter
 
@@ -154,11 +161,14 @@ pip install keras
 
 
 
-*Source:*
+## References
 
-* *[Jupyter site](http://jupyter.org/install)*
-* *[TensorFlow](https://www.tensorflow.org/install/install_linux)*
-  * *[TensorFlow other platforms](https://www.tensorflow.org/install/)*
-* *[Keras Documentation](https://keras.io/#installation)*
+- [Machine Learning](https://github.com/masinoa/machine_learning).
 
-* *[Spanish Documentation to install](https://medium.com/@msantana.castolo/guia-de-instalaci%C3%B3n-de-keras-con-tensorflow-5f2dab1a3b5f)*
+- [SkLearn Tutorial](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks).
+
+* [Jupyter site](http://jupyter.org/install)
+* [TensorFlow](https://www.tensorflow.org/install/install_linux)
+  * [TensorFlow other platforms](https://www.tensorflow.org/install/)
+* [Keras Documentation](https://keras.io/#installation)
+* [Spanish Documentation to install](https://medium.com/@msantana.castolo/guia-de-instalaci%C3%B3n-de-keras-con-tensorflow-5f2dab1a3b5f)
