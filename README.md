@@ -4,17 +4,38 @@ In this repository will be added exercises, practices and theory about machine l
 
 For a better understanding, the Jupyter environment will be used, which allows step-by-step execution of the program by adding theory.
 
-
-
 - Machine Learning.
 - Deep Learning.
 - Reinforcement Learning.
 
-### Requirements *(to Ubuntu 18.04)*:
+## The library
+
+### Machine Learning
+
+- [Basic notebooks](https://github.com/correaleyval/ML-Notebooks).
+- [Tutorial Sklean](https://github.com/pagutierrez/tutorial-sklearn) (Spanish).
+
+### Computer Vision
+
+- [Learn OpenCV](https://github.com/spmallick/learnopencv).
+
+### Reinforcement Learning
+
+- [Basic Reinforcement Learning](https://github.com/vmayoral/basic_reinforcement_learning).
+
+- [Packt Hands-on](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python) (PyTorch).
+
+### Jetson Nano
+- [Getting started in AI and computer vision](https://towardsdatascience.com/getting-started-in-ai-and-computer-vision-with-nvidia-jetson-nano-df2cacbd291c).
+- [Using PiCam in JetsonNano](https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/)
+
+### Utils
+
+- [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications).
+
+## Installation
 
 ### Jupyter
-
---------------
 
 If you have Python 3 installed (which is recommended):
 
@@ -35,10 +56,6 @@ To run the notebook, run the following command at the Terminal (*Mac/Linux*) or 
 ```
 jupyter notebook
 ```
-
-
-
-
 
 ## References
 
