@@ -13,6 +13,7 @@ For a better understanding, the Jupyter environment will be used, which allows s
 ### Machine Learning
 
 - [Basic notebooks](https://github.com/correaleyval/ML-Notebooks).
+- [Basic Libraries for Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/).
 - [Tutorial Sklean](https://github.com/pagutierrez/tutorial-sklearn) (Spanish).
 
 ### Computer Vision
