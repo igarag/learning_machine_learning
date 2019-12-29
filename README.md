@@ -61,8 +61,8 @@ jupyter notebook
 
 - [Machine Learning](https://github.com/masinoa/machine_learning).
 - [SkLearn Tutorial](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks).
-* [Jupyter site](http://jupyter.org/install).
-* [TensorFlow](https://www.tensorflow.org/install/install_linux).
-  * [TensorFlow other platforms](https://www.tensorflow.org/install/).
-* [Keras Documentation](https://keras.io/#installation).
-* [Spanish Documentation to install](https://medium.com/@msantana.castolo/guia-de-instalaci%C3%B3n-de-keras-con-tensorflow-5f2dab1a3b5f).
+- [Jupyter site](http://jupyter.org/install).
+- [TensorFlow](https://www.tensorflow.org/install/install_linux).
+  - [TensorFlow other platforms](https://www.tensorflow.org/install/).
+- [Keras Documentation](https://keras.io/#installation).
+- [Spanish Documentation to install](https://medium.com/@msantana.castolo/guia-de-instalaci%C3%B3n-de-keras-con-tensorflow-5f2dab1a3b5f).
