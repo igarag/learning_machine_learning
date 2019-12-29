@@ -7,14 +7,17 @@ For a better understanding, the Jupyter environment will be used, which allows s
 - Machine Learning.
 - Deep Learning.
 - Reinforcement Learning.
+- Computer Vision
 
 ## The library
 
 ### Machine Learning
 
 - [Basic notebooks](https://github.com/correaleyval/ML-Notebooks).
+- [Basic notebooks II](https://github.com/masinoa/machine_learning).
 - [Basic Libraries for Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/).
-- [Tutorial Sklean](https://github.com/pagutierrez/tutorial-sklearn) (Spanish).
+- [Tutorial Sklearn](https://github.com/pagutierrez/tutorial-sklearn) (Spanish).
+- [Basic Sklearn](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks)
 
 ### Computer Vision
 
@@ -59,8 +62,6 @@ jupyter notebook
 
 ## References
 
-- [Machine Learning](https://github.com/masinoa/machine_learning).
-- [SkLearn Tutorial](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks).
 - [Jupyter site](http://jupyter.org/install).
 - [TensorFlow](https://www.tensorflow.org/install/install_linux).
   - [TensorFlow other platforms](https://www.tensorflow.org/install/).
