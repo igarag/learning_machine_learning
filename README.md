@@ -22,6 +22,7 @@ For a better understanding, the Jupyter environment will be used, which allows s
 ### Computer Vision
 
 - [Learn OpenCV](https://github.com/spmallick/learnopencv).
+- [Face Recognition System](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/).
 
 ### Reinforcement Learning
 
@@ -31,6 +32,7 @@ For a better understanding, the Jupyter environment will be used, which allows s
 ### Jetson Nano
 - [Getting started in AI and computer vision](https://towardsdatascience.com/getting-started-in-ai-and-computer-vision-with-nvidia-jetson-nano-df2cacbd291c).
 - [Using PiCam in JetsonNano](https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/).
+- [FaceNet (PyTorch)](https://github.com/timesler/facenet-pytorch).
 
 ### Utils
 
