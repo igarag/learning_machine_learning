@@ -38,6 +38,7 @@ For a better understanding, the Jupyter environment will be used, which allows s
 
 - [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications).
 - [Thousand of projects in Python](https://github.com/vinta/awesome-python#robotics)
+- [Dataset search engine](https://blog.google/products/search/discovering-millions-datasets-web/)
 
 ## Installation
 
