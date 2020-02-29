@@ -19,6 +19,10 @@ For a better understanding, the Jupyter environment will be used, which allows s
 - [Tutorial Sklearn](https://github.com/pagutierrez/tutorial-sklearn) (Spanish).
 - [Basic Sklearn](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks)
 
+## Deep Learning
+
+- [FastAI Book](https://github.com/fastai/fastbook). *Jeremy Howard Deep Learning Book*.
+
 ### Computer Vision
 
 - [Learn OpenCV](https://github.com/spmallick/learnopencv).
