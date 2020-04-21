@@ -8,6 +8,7 @@ For a better understanding, the Jupyter environment will be used, which allows s
 - Deep Learning.
 - Reinforcement Learning.
 - Computer Vision
+- Natural Language Processing
 
 ## The library
 
@@ -33,6 +34,13 @@ For a better understanding, the Jupyter environment will be used, which allows s
 - [Basic Reinforcement Learning](https://github.com/vmayoral/basic_reinforcement_learning).
 - [Packt Hands-on](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python) (PyTorch).
 
+### Natural Language Processing
+
+- [NLP in Python using DeepLearning 1](https://github.com/NirantK/nlp-python-deep-learning).
+- [NLP PyLadies](https://github.com/intiveda/pyladiesNLP/blob/master/006_PyLadiesMadrid_NLP.ipynb)
+- [Different resources about NLP using PyTorch](https://medium.com/modern-nlp/get-pro-in-pytorch-for-nlp-60352b51fa1e).
+- [NLP Notebooks](https://github.com/nlptown/nlp-notebooks)
+
 ### Jetson Nano
 - [Getting started in AI and computer vision](https://towardsdatascience.com/getting-started-in-ai-and-computer-vision-with-nvidia-jetson-nano-df2cacbd291c).
 - [Using PiCam in JetsonNano](https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/).
@@ -46,7 +54,7 @@ For a better understanding, the Jupyter environment will be used, which allows s
 
 ## Installation
 
-### Jupyter
+### Jupyter Notebook
 
 If you have Python 3 installed (which is recommended):
 
@@ -55,11 +63,11 @@ python3 -m pip install --upgrade pip
 python3 -m pip install jupyter
 ```
 
-If you have Python 2 installed:
+To run Jupyter Lab, type:
 
-```
-python -m pip install --upgrade pip
-python -m pip install jupyter
+```bash
+pip3 install jupyter lab
+jupyter lab
 ```
 
 To run the notebook, run the following command at the Terminal (*Mac/Linux*) or Command Prompt (*Windows*):
