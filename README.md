@@ -23,11 +23,14 @@ For a better understanding, the Jupyter environment will be used, which allows s
 ## Deep Learning
 
 - [FastAI Book](https://github.com/fastai/fastbook). *Jeremy Howard Deep Learning Book*.
+- [FastAI book 2](https://www.fast.ai/2020/08/21/fastai2-launch/)
+- [Dive into Deep Learning](http://d2l.ai/)
 
 ### Computer Vision
 
 - [Learn OpenCV](https://github.com/spmallick/learnopencv).
 - [Face Recognition System](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/).
+- [How a CNN works](https://poloclub.github.io/cnn-explainer/)
 
 ### Reinforcement Learning
 
@@ -47,6 +50,10 @@ For a better understanding, the Jupyter environment will be used, which allows s
 - [FaceNet (PyTorch)](https://github.com/timesler/facenet-pytorch).
 
 ### Utils
+
+#### Matplotlib
+
+- [Matplotlib simple guide](https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
 
 - [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications).
 - [Thousand of projects in Python](https://github.com/vinta/awesome-python#robotics)
