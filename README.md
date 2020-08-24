@@ -12,6 +12,10 @@ For a better understanding, the Jupyter environment will be used, which allows s
 
 ## The library
 
+A library of the library:
+
+[150 repositories about Machine learning, NLP, and more](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn)
+
 ### Machine Learning
 
 - [Basic notebooks](https://github.com/correaleyval/ML-Notebooks).
