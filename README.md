@@ -47,6 +47,7 @@ A library of the library:
 - [NLP PyLadies](https://github.com/intiveda/pyladiesNLP/blob/master/006_PyLadiesMadrid_NLP.ipynb)
 - [Different resources about NLP using PyTorch](https://medium.com/modern-nlp/get-pro-in-pytorch-for-nlp-60352b51fa1e).
 - [NLP Notebooks](https://github.com/nlptown/nlp-notebooks)
+- [Best similarity algorithms](https://towardsdatascience.com/the-best-document-similarity-algorithm-in-2020-a-beginners-guide-a01b9ef8cf05)
 
 ### Jetson Nano
 - [Getting started in AI and computer vision](https://towardsdatascience.com/getting-started-in-ai-and-computer-vision-with-nvidia-jetson-nano-df2cacbd291c).
