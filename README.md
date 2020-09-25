@@ -23,6 +23,7 @@ A library of the library:
 - [Basic Libraries for Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/).
 - [Tutorial Sklearn](https://github.com/pagutierrez/tutorial-sklearn) (Spanish).
 - [Basic Sklearn](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks)
+- [Learn machine learning concepts in two hours (highly recommended). Jason Mayes.](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g183f28bdc3_0_90)
 
 ## Deep Learning
 
